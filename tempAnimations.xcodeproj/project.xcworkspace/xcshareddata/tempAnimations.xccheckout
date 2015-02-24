@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ABC323FC-B76D-46BA-BB7B-0D86652AF285</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tempAnimations</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F84E4C5C938F4A00D7465B14A75CA8454535423C</key>
+		<string>https://github.com/chadcolby/animations.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tempAnimations.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F84E4C5C938F4A00D7465B14A75CA8454535423C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chadcolby/animations.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F84E4C5C938F4A00D7465B14A75CA8454535423C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F84E4C5C938F4A00D7465B14A75CA8454535423C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tempAnimations</string>
+		</dict>
+	</array>
+</dict>
+</plist>

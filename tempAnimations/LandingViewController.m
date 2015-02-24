@@ -40,9 +40,7 @@
 }
 
 - (IBAction)finishWorking:(id)sender {
-    
-    NSLog(@"done");
-    
+        
     [[GSTWorkingViewManager manager] stopWorking];
 }
 
